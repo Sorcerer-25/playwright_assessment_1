@@ -1,0 +1,42 @@
+Scenario 1 : AMAZON.IN
+
+-> Launch amazon.in
+-> Search for rc cars 
+-> In suggestions click on rc cars drift
+-> click on 5th product
+-> click on quantity drop down
+-> change the quantity into 5
+->click on ADD TO CART
+-> click on go to cart
+->now click on (-) to delete one product 
+->Print Final price
+
+
+
+Scenario 2: QSPIDERSDEMOAPP
+
+-> open : https://demoapps.qspiders.com/ui?scenario=1
+-> Click on Popups
+-> Click on Browser windows
+-> Click on view more of Laptops
+-> Click  on Add to Cart for 3 times
+-> Check whether the cart count was increased to 3 or not
+-> Click on Cart icon
+-> Print the length of cart and validate whether it is equal to 3 or not
+
+
+Scenario 3
+ -> Launch : https://demoqa.com/login
+-> Click on new user button
+-> fill first name, and copy the first name
+->paste firstname in username
+->Fill password (Note: In password use capital , small, special symbols also give atleat 10 letters)
+-> Click on login
+->Now click on back to login
+-> validate whethrt the Books:  page opened or not
+-> validate whther the username accepted is same as you given or not
+->Click on goto book store
+->Click on Learning Java Script Design patterns books
+->Print subtitle and total pages of it
+->Click on logout 
+->check whether the Welocome page displayed or not
